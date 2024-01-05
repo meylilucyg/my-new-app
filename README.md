@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App and GitHub Actions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## This project contains the practices for the course: GitHub Actions - The Complete Guide
 
 ## Available Scripts
 
